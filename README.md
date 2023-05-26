@@ -1,7 +1,7 @@
 # MARKETY-website
 "MARKETY" is an E-commerce website for you to buy your needs, and for supermarkets to sell their products.
 
-Technologies Used: HTML, CSS, JS
+Technologies Used: HTML, CSS, JS.
 
 ![Screenshot (1003)](https://github.com/YOmnAA98/MARKETY-website/assets/97298678/4eb8227d-16f2-4fc8-bad2-49b975ec4705)
 ![Screenshot (1005)](https://github.com/YOmnAA98/MARKETY-website/assets/97298678/6849d3b3-b134-4178-9c45-562cc13ad6c3)
